@@ -9,6 +9,6 @@ http://www.w3school.com.cn/tiy/t.asp?f=html_lists_ordered
 4.	img标签中，有一个可选属性：align，该属性的作用是什么？能实现什么效果？
 http://www.w3school.com.cn/tags/att_img_align.asp 
 5.	如何在页面中插入水平线？
-'<hr/>'标签，可以生成水平线
+`<hr/>`标签，可以生成水平线
 6.	一个段落里面行数的多少，是通过什么因素决定的？
 一个段落行数的多少，会随浏览器留给段落的宽度大小的改变而自动改变。
