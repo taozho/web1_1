@@ -1,5 +1,5 @@
 1.	什么是嵌套列表？请实现一个嵌套列表，并将代码和对应的效果截图提交。
-嵌套列表，当一个列表的列表项中寻在一个新的列表元素时，那么就会出现嵌套列表的效果，注意，子列表也需要有完整的列表结构。
+<br/>嵌套列表，当一个列表的列表项中寻在一个新的列表元素时，那么就会出现嵌套列表的效果，注意，子列表也需要有完整的列表结构。
 http://www.w3school.com.cn/tiy/t.asp?f=html_lists_nested
 <br/>http://www.w3school.com.cn/tiy/t.asp?f=html_lists_nested2 
 
